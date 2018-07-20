@@ -1,0 +1,14 @@
+<% include partials/header %>
+
+    <div class="container">
+        <div id="search" class="card card-body bg-light mb-2">
+            <h4 class="display-4">Search for your favorite artist song</h4>
+            <hr>
+            <form action="/results" method="GET" class="form-group">
+                <input type="text" class="form-control mb-3" placeholder="" name="search">
+                <button type="submit" class="btn btn-dark btn-block mt-4">Search</button>
+            </form>
+        </div>
+
+
+<% include partials/footer %>
