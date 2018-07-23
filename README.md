@@ -1,4 +1,8 @@
-#Itunes-Search
+# Itunes-Search
+
+![App preview](https://res.cloudinary.com/peoray/image/upload/v1532308074/itunes_kve9ik.gif)
+
+Search for your favourite artist and see all the albums they have released and how many tracks it contains :musical_note:
 
 How to run the app locally:
 
