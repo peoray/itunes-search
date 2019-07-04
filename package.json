@@ -14,5 +14,8 @@
     "ejs": "^2.5.7",
     "express": "^4.15.4",
     "request": "^2.87.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
   }
 }
