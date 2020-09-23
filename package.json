@@ -7,7 +7,7 @@
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
-  "author": "Vanessa Ating",
+  "author": "Emmanuel Raymond",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.0",
