@@ -30,4 +30,4 @@ app.get('/results', (req, res) => {
 });
 
 // connect app to localhost port
-app.listen(3000, () => console.log('serving is listening on port 3000'));
+app.listen(process.env.PORT || 3000, () => console.log('serving is listening on port 3000'));
